@@ -1,3 +1,4 @@
+# test feature-b
 require './lib/fizzbuzz'
 
 fizzbuzz = Fizzbuzz.new
